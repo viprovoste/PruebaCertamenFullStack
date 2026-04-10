@@ -13,6 +13,6 @@ public class Libro {
     private String isbn;
     private String titulo;
     private String editorial;
-    private int fechapublicacion;
+    private int fechaPublicacion;
     private String autor;
 }
